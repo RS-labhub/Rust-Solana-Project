@@ -1,1 +1,1 @@
-# Rust-Solana-Project
+# SolanaDapp-AnchorRust-React
